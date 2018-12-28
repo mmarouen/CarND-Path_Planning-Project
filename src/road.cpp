@@ -7,7 +7,7 @@
 #include <iterator>
 #include <cmath>
 #include <vector>
-#include "Eigen/Dense"
+#include "Eigen-3.3/Eigen/Dense"
 
 using namespace std;
 using Eigen::MatrixXd;
